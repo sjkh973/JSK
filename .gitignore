@@ -1,6 +1,4 @@
-
 ### Eclipse ###
-.metadata
 bin/
 tmp/
 *.tmp
@@ -11,6 +9,8 @@ local.properties
 .settings/
 .loadpath
 .recommenders
+.metadata
+
 
 # Compiled class file
 *.class
